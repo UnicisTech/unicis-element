@@ -1,0 +1,24 @@
+{
+    "name": "Unicis light",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#FFB6C1",
+        "primary-color": "#0052cc",
+        "warning-color": "#FFA07A",
+
+        "sidebar-color": "#142b5f",
+        "roomlist-background-color": "#FFFAF0",
+        "roomlist-highlights-color": "#FFD700",
+        "roomlist-separator-color": "#FFE4B5",
+        "roomlist-text-color": "#F08080",
+        "roomlist-text-secondary-color": "#FFA07A",
+
+        "timeline-background-color": "#FFFAF0",
+        "timeline-highlights-color": "#FFD700",
+        "timeline-text-color": "#F08080",
+        "secondary-content": "#FFA07A",
+        "tertiary-content": "#FFA07A",
+        "timeline-text-secondary-color": "#FFD700",
+        "reaction-row-button-selected-bg-color": "#FFD700"
+    }
+}
