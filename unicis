@@ -1,16 +1,16 @@
 {
-    "name": "Unicis light1",
+    "name": "Unicis light2",
     "is_dark": false,
     "colors": {
-        "accent-color": "#0a6dff",
-        "primary-color": "#0052cc",
-        "warning-color": "#0043a8",
+        "accent-color": "#C7E3FB",
+        "primary-color": "#c7e3fb",
+        "warning-color": "#617D95",
 
         "sidebar-color": "#142b5f",
         "roomlist-background-color": "#0052cc",
         "roomlist-highlights-color": "#0046ad",
         "roomlist-separator-color": "#005ae0",
-        "roomlist-text-color": "#000000",
+        "roomlist-text-color": "#ffffff",
         "roomlist-text-secondary-color": "#00398f",
 
         "timeline-background-color": "#ffffff",
