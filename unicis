@@ -1,24 +1,24 @@
 {
-    "name": "Unicis Nordlight",
+    "name": "Unicis Nord light theme",
     "is_dark": false,
     "colors": {
-        "accent-color": "#a3be8c",
-        "primary-color": "#5e81ac",
+        "accent-color": "#0a6dff",
+        "primary-color": "#005ae0",
         "warning-color": "#bf616a",
 
         "sidebar-color": "#142b5f",
         "roomlist-background-color": "#0052cc",
-        "roomlist-highlights-color": "#0046ad",
-        "roomlist-separator-color": "#005ae0",
-        "roomlist-text-color": "#ffffff",
-        "roomlist-text-secondary-color": "#00398f",
+        "roomlist-text-color": "#c5e9fb",
+        "roomlist-text-secondary-color": "#142b5f",
+        "roomlist-highlights-color": "#bdbdbd",
+        "roomlist-separator-color": "#bdbdbd",
 
         "timeline-background-color": "#eceff4",
-        "timeline-text-color": "#2e3440",
-        "secondary-content": "#2e3440",
-        "tertiary-content": "#2e3440",
-        "timeline-text-secondary-color": "#3b4252",
-        "timeline-highlights-color": "#e5e9f0",
+        "timeline-text-color": "#142b5f",
+        "secondary-content": "#142b5f",
+        "tertiary-content": "#142b5f",
+        "timeline-text-secondary-color": "#043581",
+        "timeline-highlights-color": "#c5e9fb",
         "reaction-row-button-selected-bg-color": "#bf616a"
     }
 }
