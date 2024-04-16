@@ -1,10 +1,10 @@
 {
-    "name": "Unicis light2",
+    "name": "Unicis Nordlight",
     "is_dark": false,
     "colors": {
-        "accent-color": "#C7E3FB",
-        "primary-color": "#c7e3fb",
-        "warning-color": "#617D95",
+        "accent-color": "#a3be8c",
+        "primary-color": "#5e81ac",
+        "warning-color": "#bf616a",
 
         "sidebar-color": "#142b5f",
         "roomlist-background-color": "#0052cc",
@@ -13,12 +13,12 @@
         "roomlist-text-color": "#ffffff",
         "roomlist-text-secondary-color": "#00398f",
 
-        "timeline-background-color": "#ffffff",
-        "timeline-highlights-color": "#145cc4",
-        "timeline-text-color": "#000000",
-        "secondary-content": "#3080ea",
-        "tertiary-content": "#005ae0",
-        "timeline-text-secondary-color": "#00398f",
-        "reaction-row-button-selected-bg-color": "#0052cc"
+        "timeline-background-color": "#eceff4",
+        "timeline-text-color": "#2e3440",
+        "secondary-content": "#2e3440",
+        "tertiary-content": "#2e3440",
+        "timeline-text-secondary-color": "#3b4252",
+        "timeline-highlights-color": "#e5e9f0",
+        "reaction-row-button-selected-bg-color": "#bf616a"
     }
 }
